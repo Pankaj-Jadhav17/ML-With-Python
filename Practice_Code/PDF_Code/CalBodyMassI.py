@@ -23,8 +23,6 @@ h = float(input("Enter your height in meters: "))
 w = float(input("Enter your weight in kilograms: "))
 
 print("Welcome to the Body Mass Index (BMI) Calculator!")
-# print("Your BMI is:", bodymassindex(w, h))
-
 bmi = bodymassindex(w, h)
 print("Your BMI is:", bmi)
 
