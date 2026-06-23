@@ -1,6 +1,3 @@
-from itertools import count
-
-
 def count_occurrences(l, element):
     count = l.count(element)
     return count
