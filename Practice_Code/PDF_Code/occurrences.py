@@ -1,5 +1,5 @@
-def count_occurrences(l, element):
-    count = l.count(element)
+def count_occurrences(lst, element):
+    count = lst.count(element)
     return count
 
 # Example usage:
