@@ -6,3 +6,5 @@ for i in my_dir.values():
     unique_values.add(i)
     unique_list = list(unique_values)
     print("Unique values in the dictionary:", unique_list)
+    
+    
